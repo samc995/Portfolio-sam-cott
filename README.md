@@ -33,7 +33,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Usage
 
 Populate the website by using the link provided below.
-*file:///Users/SamCott/bootcamp/portfolio-sam-cott/index.html#email
+https://samc995.github.io/Portfolio-sam-cott/
 
 Click on the nav bar to take you to the appropriate section. Click on the pictures below to be redirected to the working website.
 
