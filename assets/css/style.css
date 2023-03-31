@@ -192,6 +192,16 @@ footer {
     border-style: solid;
 }
 
+.sam-project-2 {
+    border-width: 8px;
+    margin-left: 20px;
+}
+
+.sam-project-2:hover {
+    border-width: 8px;
+    border-color: #be3144;
+    border-style: solid;
+}
     
     
    
