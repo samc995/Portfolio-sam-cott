@@ -203,7 +203,16 @@ footer {
     border-style: solid;
 }
     
-    
+.sam-project-3 {
+    border-width: 8px;
+    margin-left: 20px;
+}
+
+.sam-project-3:hover {
+    border-width: 8px;
+    border-color: #be3144;
+    border-style: solid;
+}
    
   
 
